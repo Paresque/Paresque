@@ -10,14 +10,13 @@
 
 ## AWS Certified:
 
-<img alt="AWS Certified Cloud Practitioner" src="./img/aws-certified-cloud-practitioner.png" height="120px" width="120px"  /> <img alt="AWS Certified Solutions Architect Associate" src="./img/aws-certified-solutions-architect-associate.png" height="120px" width="120px"  /> <img alt="AWS Certified Developer Associate" src="./img/aws-certified-developer-associate.png" height="120px" width="120px"  />
+<img alt="AWS Certified Cloud Practitioner" src="./img/aws-certified-cloud-practitioner.png" height="120px" width="120px"  /> <img alt="AWS Certified Solutions Architect Associate" src="./img/aws-certified-solutions-architect-associate.png" height="120px" width="120px"  /> <img alt="AWS Certified Developer Associate" src="./img/aws-certified-developer-associate.png" height="120px" width="120px"  /> <img alt="AWS Certified Developer Associate" src="./img/aws-certified-solutions-architect-professional.png" height="120px" width="120px"  />
 
 ## Expert in:
 
-
 - Solid knowledge in AWS Lambda, DynamoDB, API Gateway;
 - Solid knowledge with message queuing services to decouple applications like SNS and SQS;
-- Work experience with Microsoft stack C#, ASP.NET MVC, ASP.NET API, ADO.NET e SQL SERVER;
+- Work experience with Node.JS and Microsoft stack C#, ASP.NET MVC, ASP.NET API, ADO.NET e SQL SERVER;
 - Experience with frontend technologies ReactJS, jQuery, Bootstrap. 
 
 ## About this GitHub
